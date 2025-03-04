@@ -5,7 +5,7 @@
 
 ## 📊 GitHub Language Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janitha-visna&layout=compact)
 
 ## 🚀 About This Project
 
