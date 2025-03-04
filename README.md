@@ -1,7 +1,7 @@
 # My GitHub Repository
 
-![Repository Languages](https://img.shields.io/github/languages/top/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY)
-![Languages Count](https://img.shields.io/github/languages/count/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY)
+![Repository Languages](https://img.shields.io/github/languages/top/janitha-visna/janitha-visna)
+![Languages Count](https://img.shields.io/github/languages/count/janitha-visna/janitha-visna)
 
 ## 📊 GitHub Language Stats
 
