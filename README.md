@@ -1,6 +1,8 @@
 # 📁 My GitHub Repository
 
 ![Top Language](https://img.shields.io/github/languages/top/janitha-visna/janitha-visna)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janitha-visna&layout=compact&hide=JavaScript,PHP)
+
 ![Languages Count](https://img.shields.io/github/languages/count/janitha-visna/janitha-visna)
 
 ## 📊 Language Statistics
