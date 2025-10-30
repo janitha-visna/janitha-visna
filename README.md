@@ -7,15 +7,19 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janitha-visna&layout=compact)
 
-## 🚀 About This Project
+## 🚀 About Me
 
-This repository showcases my work across various programming languages, mainly focusing on full-stack web development and scripting.
+I'm passionate about building **web applications** and exploring modern technologies. I have a growing interest in **machine learning**, **distributed computing**, and **microservices**.  
 
-## 🛠 Technologies Used
+Some interesting facts about me:  
+- I enjoy turning ideas into practical projects.  
+- I like experimenting with different programming languages and frameworks.  
+- I'm always curious about learning new tech trends and solving complex problems.  
+
+## 🛠 Technologies I Use
 
 - **JavaScript**
 - **TypeScript**
 - **PHP**
 
----
 
