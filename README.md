@@ -54,8 +54,13 @@ Some interesting facts about me:
 ## 🌟 Tech Cloud Visual
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=37BCF7&center=true&vCenter=true&width=600&lines=JavaScript+|+TypeScript+|+Python+|+PHP+|+Node.js+|+FastAPI+|+Docker+|+AWS+|+MongoDB+|+MySQL" alt="Tech Cloud"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=37BCF7&center=true&vCenter=true&width=1000&lines=JavaScript+|+TypeScript+|+Python+|+PHP|+Node.js|+FastAPI" alt="Tech Cloud"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=37BCF7&center=true&vCenter=true&width=1000&lines=Docker|AWS|MongoDB|MySQL" alt="Tech Cloud"/>
+</p>
+
 
 ---
 
